@@ -14,6 +14,10 @@
 
 <br>
 
+## 🔗 Link
+
+https://eudlayfelipe.github.io/SiteTuristicoAJU/
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
